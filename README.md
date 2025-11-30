@@ -1,6 +1,6 @@
 # BEHAK Studio - Premium Pashmina E-commerce
 
-Premium e-commerce website for Behak Studio featuring handmade pashmina shirts, jackets with Kashmiri handicraft embroidery. Built for luxury shopping experience with responsive design. [memory:5]
+Premium e-commerce website for Behak Studio featuring handmade pashmina shirts, jackets with Kashmiri handicraft embroidery. Built for luxury shopping experience with responsive design.
 
 ## ✨ Features
 - Premium product showcase (shirts, jackets)
