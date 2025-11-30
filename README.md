@@ -12,5 +12,7 @@ Premium e-commerce website for Behak Studio featuring handmade pashmina shirts, 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: Node.js (`app.js`), Python venv
 - **Styling**: Custom premium CSS (`style.css`)
-
+- 
+## VISIT THE SITE##
+https://musavirdar.github.io/behak/
 
